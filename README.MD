@@ -18,7 +18,7 @@ O template está disponível na seguinte URL:
 
 Agora navegue até a pasta criada, abra no Visual Studio Code e execute o comando `yarn` no seu terminal para instalar todas as dependências. A estrutura do seu projeto deve estar assim:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fae291a-6a61-45af-8819-775d34e91c76/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fae291a-6a61-45af-8819-775d34e91c76/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fae291a-6a61-45af-8819-775d34e91c76/Untitled.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1fae291a-6a61-45af-8819-775d34e91c76%2FUntitled.png?table=block&id=5b50feff-49c8-440c-a2f5-c6a7f89d0454&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=2000&userId=&cache=v2)
 
 ## Rotas da aplicação
 
